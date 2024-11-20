@@ -1,8 +1,27 @@
 h1 {
     text-align: center;
+    color: black;
+    margin-top: 50px;
 }
 
 body {
- 
+ color: whitesmoke;
+ background-color: steelblue;
+
+}
+
+.rim {
+    border-color: black;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
+    font-size: 25px;
+    background-color: whitesmoke;
+    border-style: dotted;
+}
+
+rim:hover {
+    
 }
 

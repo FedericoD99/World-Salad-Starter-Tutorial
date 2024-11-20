@@ -45,9 +45,9 @@ console.log(objNoun9)
 console.log(objAdj8)
 console.log(objAdj9)
 
-let myStory = `One day, a ${objAdj1} ${objNoun1} named ${storyName1} decided to go on an adventure. ${storyName2} had always dreamed of finding the legendary ${objNoun2} hidden deep in the ${objPlace}.
-Armed with a ${objNoun3} and a ${objAdj2} map, ${storyName3} set off on the journey.Along the way, ${storyName4} encountered a ${objAdj3} ${objNoun4} who offered to help. 
-The two decided to travel together, hoping that the ${objAdj4} ${objNoun5} would help them overcome the ${objNoun6} obstacles ahead. 
+let myStory =  `One day, a ${objAdj1} ${objNoun1} named ${storyName1} decided to go on an adventure. ${storyName2} had always dreamed of finding the legendary ${objNoun2} hidden deep in the ${objPlace}.
+Armed with a ${objNoun3} and a ${objAdj2} map, ${storyName3} set off on the journey. Along the way, ${storyName4} encountered a ${objAdj3} ${objNoun4} who offered to help. 
+The two decided to travel together, hoping that the ${objAdj4} ${objNoun5} would help them overcome the ${objNoun6} obstacles ahead. </p>
 They crossed a ${objNoun7} and climbed a ${objAdj5} mountain, eventually reaching the entrance to the hidden cave.
 Inside, they found a ${objAdj6} treasure chest filled with ${objNoun8}. But to their surprise, it wasn't gold or jewels—it was full of ${objAdj7} ${objNoun9}!
 The two friends laughed and decided that the real treasure was the ${objAdj8} time they spent together. And so, they returned home, ${objAdj9} and ready for their next great adventure.`
